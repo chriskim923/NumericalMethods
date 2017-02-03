@@ -1,4 +1,4 @@
-// LU.cpp
+// LU Linear Regression
 //
 // This program decomposes a matrix into LU format and solves a system of equations given a b vector
 // 
